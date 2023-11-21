@@ -24,3 +24,6 @@ Assingment-4
             - eg : `ninja-route-priv-01/02`
 
 **Note: Make maximum use of variables and output files**
+
+![image](https://github.com/Samir-Kesare/Assignments/assets/145540651/10f5df7a-d59d-4be9-bc45-28620d0480fa)
+
